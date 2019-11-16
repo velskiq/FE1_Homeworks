@@ -1,8 +1,12 @@
+article{
+    background-color: #34495e;
+}
 table{
-    width: 100%;
+    width: 98%;
     background-color:#34495e ;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-collapse: collapse;
+    margin-left: 1%;
 }
 h1{
     font-size: x-large;
